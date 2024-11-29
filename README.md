@@ -18,10 +18,8 @@ Weather Info: Fetches weather data using the OpenWeatherMap API.
 # Prerequisites:
 Before you can run this project, ensure the following prerequisites are installed on your system:
 
-''' py
 Python 3.x
 pip (Python's package installer)
-'''
 
 # Installation
 # Windows:
