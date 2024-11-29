@@ -8,18 +8,20 @@ User Interaction: Prompts the user for their name (though not used directly in t
 Weather Info: Fetches weather data using the OpenWeatherMap API.
 
 # Table of Contents:
-Prerequisites
-Installation
-API Key Setup
-Creating Audio Files
-Running the Code
-Troubleshooting
+1. Prerequisites
+2. Installation
+3. API Key Setup
+4. Creating Audio Files
+5. Running the Code
+6. Troubleshooting
 
 # Prerequisites:
 Before you can run this project, ensure the following prerequisites are installed on your system:
 
+'''bash
     Python 3.x
     pip (Python's package installer)
+'''
 
 # Installation
 # Windows:
