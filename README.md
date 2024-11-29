@@ -22,7 +22,7 @@ Python 3.x
 pip (Python's package installer)
 
 # Installation
-# Windows:
+## Windows:
 1. Install Python:
     Download Python from the official Python website.
     During installation, make sure to check "Add Python to PATH".
