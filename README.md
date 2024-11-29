@@ -18,7 +18,7 @@ Weather Info: Fetches weather data using the OpenWeatherMap API.
 # Prerequisites:
 Before you can run this project, ensure the following prerequisites are installed on your system:
 
-*Python 3.x*
+###Python 3.x
 pip (Python's package installer)
 
 # Installation
@@ -29,7 +29,7 @@ pip (Python's package installer)
 
 2. Install Dependencies: Open Command Prompt and navigate to your project directory. Then run:
 
-    pip install -r requirements.txt
+###pip install -r requirements.txt
 
 3. Install Additional Software (for handling MP3 files):
     Install FFmpeg. This is needed for handling MP3 files in your project.
